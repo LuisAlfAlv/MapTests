@@ -1,1 +1,3 @@
-# MapTests
+- This project was later on in the course it dealt with map handling
+- The program reverses given maps and outputs them
+- The program uses basic knowledge of map foundations
